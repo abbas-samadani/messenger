@@ -1,0 +1,30 @@
+{
+  "name": "messenger",
+  "version": "1.0.0",
+  "description": "a backend api for messenger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "messenger",
+    "api",
+    "realtime",
+    "web",
+    "socket"
+  ],
+  "author": "Seyed Abbas Samadani <a.samadani256@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "mysql2": "^2.2.5",
+    "peer": "^0.5.2",
+    "sequelize": "^6.3.5"
+  }
+}
