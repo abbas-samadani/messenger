@@ -11,7 +11,7 @@ This project aims to provide a Messenger with Audio and video messaging capabili
 An overview of the files is provided below.
 
 
-- `frontend/` contains reactjs,redux
+- `frontend/` contains react,redux
 - `backend/` contains nodejs, peerjs and express
 - `report/` contains report in pdf format.
 - `.gitignore` is the file specifying which files should be ignored in Git.
